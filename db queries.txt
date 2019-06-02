@@ -1,0 +1,1 @@
+CREATE TABLE `dynamic_menu`.`menuNames` ( `Student` VARCHAR NOT NULL , `Teacher` VARCHAR NOT NULL , `Management` VARCHAR NOT NULL , `Parents Record` VARCHAR NOT NULL , `Research Areas` VARCHAR NOT NULL , `Degree Program` VARCHAR NOT NULL , `About` VARCHAR NOT NULL ) ENGINE = InnoDB;
